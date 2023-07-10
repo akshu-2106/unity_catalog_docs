@@ -1,4 +1,4 @@
-#What is Unity Catalog?
+# What is Unity Catalog?
 
 This section is only for the Data Engineering team, it is in pilot stage and still work in progress.
 Unity catalog is Databricks solution to support Data Governance. It enables data governance and security management using ANSI SQL or the Web UI interface and offers a tool that allows to:
